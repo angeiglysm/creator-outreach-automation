@@ -18,9 +18,9 @@ perfiles_tiktok_contactados = []
 
 backstage = "https://live-backstage.tiktok.com/portal/anchor/instant-messages"
 
-mensaje_1 = "Hola! Somos Dreamlive, Agencia Oficial de TikTok Live. Hemos visto tu perfil y creemos que tienes potencial para crecer dentro de TikTok Live, por lo que nos gustaría que te unieras a nosotros."
-mensaje_2 = "Holaa! Somos Dreamlive, Agencia Oficial de TikTok LIVE! Hemos visto el potencial de tu perfil y, dado que no colaboras con ninguna agencia oficial del programa, nos gustaría que formaras parte de nosotros. Al unirte, disfrutarás de beneficios exclusivos como un mánager y diseñador gráfico dedicado, y la oportunidad de participar en campañas, talleres y eventos exclusivos de TikTok LIVE, lo que te permitirá mejorar tu presencia y monetización. Si te interesa, puedo contarte más de nosotros y enviarte nuestra propuesta detallada con todos los beneficios."
-mensaje_3 = "Hola! Somos Dreamlive, Agencia Oficial de TikTok Live. Hemos visto el potencial de tu perfil y dado que no colaboras con ninguna agencia oficial del programa, nos gustaría que te unieras a nosotros. Te ayudaríamos a mejorar tus estadísticas y monetización. Si te interesa, puedo enviarte nuestra propuesta detallada con los beneficios y herramientas a los que tendrías acceso."
+mensaje_1 = "Hola! Somos Dreaml, Agencia Oficial de TikTok Live. Hemos visto tu perfil y creemos que tienes potencial para crecer dentro de TikTok Live, por lo que nos gustaría que te unieras a nosotros."
+mensaje_2 = "Holaa! Somos Dreaml, Agencia Oficial de TikTok LIVE! Hemos visto el potencial de tu perfil y, dado que no colaboras con ninguna agencia oficial del programa, nos gustaría que formaras parte de nosotros."
+mensaje_3 = "Hola! Somos Dreaml, Agencia Oficial de TikTok Live. Hemos visto el potencial de tu perfil y dado que no colaboras con ninguna agencia oficial del programa, nos gustaría que te unieras a nosotros."
 mensajes = [mensaje_2,mensaje_3]
 
 max_iteraciones = 200
